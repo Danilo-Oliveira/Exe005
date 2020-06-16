@@ -1,0 +1,29 @@
+
+<!--
+                        <th>CPF</th>
+						<th>RG</th>
+						<th>CEP</th>
+						<th>Rua</th>
+						<th>Cidade</th>
+						<th>Estado</th>
+						<th>Pais</th>
+						<th>Salario</th>
+						<th>Patrimonio</th>
+						<th>Empresa em Que Trabalha</th>
+						<th>Tempo que trabalha</th>
+						<th>Cargo</th>
+
+                    <td>@item.Cpf</td>
+                    <td>@item.Rg</td>
+                    <td>@item.Cep</td>
+                    <td>@item.Rua</td>
+                    <td>@item.Cidade</td>
+                    <td>@item.Estado</td>
+                    <td>@item.Pais</td>
+                    <td>@item.Salario</td>
+                    <td>@item.Patrimonio</td>
+                    <td>@item.EmpresaEmQueTrabalha</td>
+                    <td>@item.TempoNoEmprego</td>
+                    <td>@item.Cargo</td>
+                    <td>@item.NumeroDaConta</td>
+-->
